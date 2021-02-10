@@ -1,0 +1,7 @@
+.Contenedor{
+    border: 1px solid black;
+    width: 800px;
+    height: 200px;
+    display: flex;
+    text-align: center;
+}
